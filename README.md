@@ -1,2 +1,2 @@
-# TDI
-Some codes i made in .sh and .py
+# Random-Codes
+Some codes i've made.
