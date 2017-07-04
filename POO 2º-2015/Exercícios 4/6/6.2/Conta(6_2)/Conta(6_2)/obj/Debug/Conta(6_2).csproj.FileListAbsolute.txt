@@ -1,0 +1,15 @@
+C:\Users\Samara\Desktop\Conta(6_2)\Conta(6_2)\bin\Debug\Conta(6_2).exe.config
+C:\Users\Samara\Desktop\Conta(6_2)\Conta(6_2)\obj\Debug\Conta(6_2).csprojResolveAssemblyReference.cache
+C:\Users\Samara\Desktop\Conta(6_2)\Conta(6_2)\obj\Debug\Conta_6_2_.NovaConta.resources
+C:\Users\Samara\Desktop\Conta(6_2)\Conta(6_2)\obj\Debug\Conta_6_2_.Properties.Resources.resources
+C:\Users\Samara\Desktop\Conta(6_2)\Conta(6_2)\obj\Debug\Conta(6_2).csproj.GenerateResource.Cache
+C:\Users\Samara\Desktop\Conta(6_2)\Conta(6_2)\bin\Debug\Conta(6_2).exe
+C:\Users\Samara\Desktop\Conta(6_2)\Conta(6_2)\bin\Debug\Conta(6_2).pdb
+C:\Users\Samara\Desktop\Conta(6_2)\Conta(6_2)\obj\Debug\Conta(6_2).exe
+C:\Users\Samara\Desktop\Conta(6_2)\Conta(6_2)\obj\Debug\Conta(6_2).pdb
+C:\Users\Samara\Desktop\Conta(6_2)\Conta(6_2)\obj\Debug\Conta_6_2_.ExcluirConta.resources
+C:\Users\Samara\Desktop\Conta(6_2)\Conta(6_2)\obj\Debug\Conta_6_2_.Menu.resources
+C:\Users\Samara\Desktop\Conta(6_2)\Conta(6_2)\obj\Debug\Conta_6_2_.Depositar.resources
+C:\Users\Samara\Desktop\Conta(6_2)\Conta(6_2)\obj\Debug\Conta_6_2_.Relacao.resources
+C:\Users\Samara\Desktop\Conta(6_2)\Conta(6_2)\obj\Debug\Conta_6_2_.Sacar.resources
+C:\Users\Samara\Desktop\Conta(6_2)\Conta(6_2)\obj\Debug\Conta_6_2_.Saldo.resources

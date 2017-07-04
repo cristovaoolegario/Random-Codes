@@ -1,0 +1,66 @@
+a) TELA:
+
+
+ Tamanho dos tipos primitivos:
+ float = 4 bytes double = 8 bytes  int = 4 bytes long = 8 bytes
+ Digite seu numero de matricula: 536584
+ Resultado 1:
+ 0 4 53658  1 8 5365  2 5 536  3 6 53  4 3 5  5 5 0 
+ Digite seu primeiro nome: Cristóvão
+ Digite seu ultimo sobrenome: Olegário
+ NOME1 = Cristóvão NOME2 = Olegário
+ Resultado 2:
+ A = 8 B = 5 C = 6
+ x = 8 y = 5 z = 6
+ x = 18 y = 25 z = 79
+ A = 8 B = 5 C = 6
+ r = 0
+ Resultado 3:
+ 0 4  1 8  2 5  3 6  4 3  5 5  
+ x = 18 y = 25 z = 36
+ w = 79
+ 0 18  1 25  2 36  3 7  4 3  5 5  
+ r = 79
+ Digite enter para terminar
+
+
+b) Valores assumidos pelas variáveis e cálculos:
+
+A = 0, 8,
+B = 0, 5,
+C = 0, 6,
+i = 0, 1, 2, 3, 4, 5, 6, 0, 1, 2, 3, 4, 5, 6, 0; 
+j = 536584, 53658, 5365, 536, 53, 5, 0, 6;
+k = 4, 
+l = 8, 
+m = 4, 
+n = 8, 
+NMAT = 536584;
+vetor[] ={}{}{}{}{}{}{}{}{}{}, {4}{}{}{}{}{}{}{}{}{},{4}{8}{}{}{}{}{}{}{}{},{4}{8}{5}{}{}{}{}{}{}{},{4}{8}{5}{6}{}{}{}{}{}{},{4}{8}{5}{6}{3}{}{}{}{}{},{4}{8}{5}{6}{3}{5}{}{}{}{};
+t = ,
+r = 0, 79;
+NOME1 = "Cristóvão",
+NOME2 = "Olegário",
+
+//Faz1
+{
+x = 8, 18,
+y = 5, 25,
+z = 6, 36, 79
+}
+
+//Faz2
+{
+w = 0, 79
+x = 8, 18,
+y = 5, 25,
+z = 6, 36,
+vetor[] ={4}{8}{5}{6}{3}{5}{}{}{}{}, {18}{25}{36}{7}{3}{5}{}{}{}{}
+}
+
+//readLine
+{
+ch = ,
+r = ,
+done = false,
+}

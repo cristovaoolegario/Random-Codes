@@ -1,0 +1,39 @@
+C:\Users\Pedro\Documents\Visual Studio 2013\Projects\Lab 4\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Pedro\Documents\Visual Studio 2013\Projects\Lab 4\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Pedro\Documents\Visual Studio 2013\Projects\Lab 4\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Pedro\Documents\Visual Studio 2013\Projects\Lab 4\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Pedro\Documents\Visual Studio 2013\Projects\Lab 4\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Pedro\Documents\Visual Studio 2013\Projects\Lab 4\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Pedro\Documents\Visual Studio 2013\Projects\Lab 4\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Pedro\Documents\Visual Studio 2013\Projects\Lab 4\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Pedro\Documents\Visual Studio 2013\Projects\Lab 4\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+E:\Sistemas de Informação\Programação Orientada a Objetos\Laboratório\Lab 4\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+E:\Sistemas de Informação\Programação Orientada a Objetos\Laboratório\Lab 4\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+E:\Sistemas de Informação\Programação Orientada a Objetos\Laboratório\Lab 4\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+E:\Sistemas de Informação\Programação Orientada a Objetos\Laboratório\Lab 4\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\Sistemas de Informação\Programação Orientada a Objetos\Laboratório\Lab 4\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\Sistemas de Informação\Programação Orientada a Objetos\Laboratório\Lab 4\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+E:\Sistemas de Informação\Programação Orientada a Objetos\Laboratório\Lab 4\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+E:\Sistemas de Informação\Programação Orientada a Objetos\Laboratório\Lab 4\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\Sistemas de Informação\Programação Orientada a Objetos\Laboratório\Lab 4\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\536589\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\536589\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\536589\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\536589\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\536589\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\536589\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\536589\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\536589\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\536589\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Samara\Desktop\LAB4\Ex\3.1\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Samara\Desktop\LAB4\Ex\3.1\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Samara\Desktop\LAB4\Ex\3.1\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Samara\Desktop\LAB4\Ex\3.1\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Samara\Desktop\LAB4\Ex\3.1\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Samara\Desktop\LAB4\Ex\3.1\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Samara\Desktop\LAB4\Ex\3.1\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Samara\Desktop\LAB4\Ex\3.1\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Samara\Desktop\LAB4\Ex\3.1\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Samara\Desktop\LAB-4\3\Conversor\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Samara\Desktop\LAB-4\3\Conversor\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Samara\Desktop\LAB-4\3\Conversor\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb

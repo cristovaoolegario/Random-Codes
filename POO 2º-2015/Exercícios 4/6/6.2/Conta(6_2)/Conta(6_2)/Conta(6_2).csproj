@@ -1,0 +1,146 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{5D04855E-4C28-4D4B-A2CC-227D7E70557E}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Conta_6_2_</RootNamespace>
+    <AssemblyName>Conta%286_2%29</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Conta.cs" />
+    <Compile Include="ContaPoupanca.cs" />
+    <Compile Include="Contole.cs" />
+    <Compile Include="Depositar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Depositar.Designer.cs">
+      <DependentUpon>Depositar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ExcluirConta.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ExcluirConta.Designer.cs">
+      <DependentUpon>ExcluirConta.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Investimento.cs" />
+    <Compile Include="Menu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Menu.Designer.cs">
+      <DependentUpon>Menu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="NovaConta.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NovaConta.Designer.cs">
+      <DependentUpon>NovaConta.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Relacao.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Relacao.Designer.cs">
+      <DependentUpon>Relacao.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Sacar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Sacar.Designer.cs">
+      <DependentUpon>Sacar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Saldo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Saldo.Designer.cs">
+      <DependentUpon>Saldo.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Depositar.resx">
+      <DependentUpon>Depositar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ExcluirConta.resx">
+      <DependentUpon>ExcluirConta.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Menu.resx">
+      <DependentUpon>Menu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NovaConta.resx">
+      <DependentUpon>NovaConta.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Relacao.resx">
+      <DependentUpon>Relacao.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Sacar.resx">
+      <DependentUpon>Sacar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Saldo.resx">
+      <DependentUpon>Saldo.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

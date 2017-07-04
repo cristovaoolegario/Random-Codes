@@ -1,0 +1,66 @@
+// nome do programa: Exercicio4.4.java
+// programadores: Andrew de Oliveira Duchini, Cristóvão Olegário
+// data:22/08/2015 
+// descrição: Esse programa converte a temperatura em Celsius para Fahrenheit e Fahrenheit para Celsius.
+//entrada: Recebe a opção do usuário e a temperatura.
+//saída: Retorna a temperatura convertida.
+
+import java.io.IOException;
+import java.io.*;
+
+public class Conversao
+{
+	double temperatura;
+	double temperaturaCelsius;
+	double temperaturaFahrenheit;
+	
+	public Conversao(String [] args)
+	{
+		this.temperatura = Float.arseFloat(args[0]);
+	}
+	
+	public void celsiusFahrenheit()
+	{
+		temperaturaFahrenheit = 1.8 * temperatura + 32;
+	}
+	public void FahrenheitCelsius()
+	{
+		temperaturaCelsius = (temperatura - 32) / 1.8;
+	}
+}
+public class Program
+{
+	public static void Main(String []args)
+	{
+		int opcao = -1;
+		double valor;
+		
+		Conta C = new Conta();
+		
+		do{
+			System.out.println("Digite 1 para converter para Fahrenheit");
+			System.out.println("Digite 2 para converter de Fahrenheit para Celsius");
+			System.out.println("Digite 3 para sair do programa");
+			
+			System.out.println("Digite a opcao: ");
+			opcao = readLine();
+			
+			switch(opcao)
+			{
+				case 1: C.depositar(valor);
+				break;
+				case 2:System.out.println("Digite um valor: ");
+						valor = readLine();
+						C.fazerRetirada(valor);
+				break;
+				case 3:C.imprimeSaldo();
+				break;
+				case 4:			
+				break;
+				default:System.out.println("Operacao invalida Inválido");
+				break;	
+			}				
+		
+		}while(opcao != 4);
+	}
+}

@@ -1,0 +1,8 @@
+C:\Users\536589\Documents\Visual Studio 2013\SistemaBancario\SistemaBancario\bin\Debug\SistemaBancario.exe.config
+E:\Sistemas de Informação\Programação Orientada a Objetos\Laboratório\Lab 4\5.3\SistemaBancario\SistemaBancario\bin\Debug\SistemaBancario.exe.config
+C:\Users\Samara\Desktop\LAB4\5.3\SistemaBancario\SistemaBancario\bin\Debug\SistemaBancario.exe.config
+C:\Users\Samara\Desktop\LAB4\5.3\SistemaBancario\SistemaBancario\bin\Debug\SistemaBancario.exe
+C:\Users\Samara\Desktop\LAB4\5.3\SistemaBancario\SistemaBancario\bin\Debug\SistemaBancario.pdb
+C:\Users\Samara\Desktop\LAB4\5.3\SistemaBancario\SistemaBancario\obj\Debug\SistemaBancario.csprojResolveAssemblyReference.cache
+C:\Users\Samara\Desktop\LAB4\5.3\SistemaBancario\SistemaBancario\obj\Debug\SistemaBancario.exe
+C:\Users\Samara\Desktop\LAB4\5.3\SistemaBancario\SistemaBancario\obj\Debug\SistemaBancario.pdb
