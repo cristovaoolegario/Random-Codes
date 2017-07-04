@@ -1,2 +1,2 @@
 # Random-Codes
-Some codes i've made.
+Some codes that i and some friends made.
